@@ -13,7 +13,7 @@ More details relating to the API's will be added when available.
 
 ---
 
-##USPs
+## USPs
 
 ### Lisbon
 

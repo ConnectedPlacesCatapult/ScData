@@ -1,4 +1,4 @@
-##Data Available From USPs
+## Data Available From USPs
 
 This document outlines the data that will become available from the Urban Sharing Platforms in the lifetime of the Sharing Cities Task 2.4 - The Dashboard (aka service layer). It first focuses on the data available through **Sharing Cities Specific Services**. It then focuses on data avaialble from other sources (e.g. datastores) in the relevant cities.
 
@@ -7,11 +7,11 @@ More details relating to the API's will be added when available.
 ---
 
 
-###Lisbon
+### Lisbon
 
 For more information on anticipated dates and the data available, see the [Lisbon USP Folder](https://drive.google.com/drive/folders/0B-BYSa5GDvhZekdhZFJYR05iVDQ). This is managed by Telma mota. The spreadsheet in this folder has more information on availability dates. 
 
-####`Digital Social Market - UNCERTAIN`
+#### `Digital Social Market - UNCERTAIN`
 
 - We might be recieving data that relate to the Digital Social Market in Lisbon and we may be able to receive aggregate data relating to:
     - Energy Consumption (per group of people in kWh) (get 15 minutely data once a month)
@@ -20,7 +20,7 @@ For more information on anticipated dates and the data available, see the [Lisbo
     - Steps per person	Nbr of steps (real time)
     - EV Charging energy per person	kWh
 
-####`General Services - MORE CERTAIN`
+#### `General Services - MORE CERTAIN`
 
 - `Energy consumption and production` (kWh) for two public buildings and potentially three private buildings. The private building data might be aggregated.
 - `Energy management data` from the City Hall 'virtual building' in Lisbon and a series of 'Pilot area buildings'. This includes data from the:
@@ -55,7 +55,7 @@ For more information on anticipated dates and the data available, see the [Lisbo
 - `Lamp post sensor` data
     - NOx & No2, O3, CO, PM10, PM2.5, Temperature, Humidity, Atmospheric pressure
     - Should map and show timeseries when clicked on. 
-###Greenwich
+### Greenwich
 
 For more information on anticipated dates, see the [Greenwich USP plan](https://docs.google.com/spreadsheets/d/1mWTsh-IIZ8ZosO-Tm_hDV8RSGFfA8Br8RMQUUti-PEE/edit?ts=5b616ddb#gid=0).
 
@@ -83,6 +83,6 @@ For more information on anticipated dates, see the [Greenwich USP plan](https://
 - `eLogistics impact`
     - These will be static data and are unlikely to change fequently. Current understanding is that they are likely to be updated every 6 months or so. We're in consultation with Greenwich about how to best use this information. 
 
-###Milan
+### Milan
 
 Awaiting feedback. 

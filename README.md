@@ -103,12 +103,31 @@ Awaiting feedback from Maurillio.
 
 ## Existing Data Stores
 
+These need to be investigated further to address what will be useful to enrich the data from the USP. 
+
 ### Lisbon
 
-See [here](http://dados.cm-lisboa.pt/dataset). Still need to undergo an exercise looking through these to determine what might enrich the data coming from Sharing Cities. 
+- [Main Datastore](http://dados.cm-lisboa.pt/dataset). Possibly has a CKAN API but need to investigate timeliness of data. 
+- [OpenWeatherMap](https://openweathermap.org/price)
+
+- [City SDK API](http://tourism.citysdk.eu/api/lisbon.html) for a CitySDK API. 
+
 
 ### Greenwich
-
-
+ 
+- [TFL General](https://tfl.gov.uk/info-for/open-data-users/unified-api?intcmp=29422)
+- [TFL Bike Share](https://api.tfl.gov.uk/swagger/ui/index.html?url=/swagger/docs/v1#!/BikePoint/BikePoint_GetAll)
+- [Air Quality](http://api.erg.kcl.ac.uk/AirQuality/help)
+- [OpenWeatherMap](https://openweathermap.org/price)
+- [Police](https://data.police.uk/docs/)
 
 ### Milan
+
+- [Main Datastore](http://dati.comune.milano.it/)
+- [OpenWeatherMap](https://openweathermap.org/price)
+- [Dandelion API - Social Data](https://dandelion.eu/datamine/open-big-data/)
+
+
+## Other example (for use in testing)
+
+See [here](https://docs.google.com/document/d/18rXzLtCDU3dGk_DqSmUXT6DKqsEENvK69IM4_-edFsQ/edit#)

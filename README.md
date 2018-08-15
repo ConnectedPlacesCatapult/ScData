@@ -35,7 +35,7 @@ For more information on anticipated dates and the data available, see the [Lisbo
     - HVAC system
     - EV Charging (near the building)
     - Photo Voltaics (as shown in the previous major bullet)
-    - Other energy consimption
+    - Other energy consumption
     - Public lighting energy consumption (kWh/section)
 - :car: `Ebike docking station` data
     - Ebike docking station energy consumption

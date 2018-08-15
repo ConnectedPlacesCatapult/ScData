@@ -18,4 +18,4 @@ As a technical decisionmaker or key part of the city's services, we need your fe
 
 ### Step 3 - The exercise
 
-
+We believe that different people have different needs when it comes to data and dashboards. We want to know what your current needs are and how you feel about using data and dashboards. We also want to know what you might want from city data in the future. As more data become available in your city, your goals might change and you may see new ways of combining and investigating data. We'd like to know what sort of future you'd like to see, given the data that might become available. 

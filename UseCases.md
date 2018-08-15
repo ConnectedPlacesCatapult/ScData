@@ -12,6 +12,16 @@
 ##### I'm a mobility expert and i'm interested in how electric vehicles are being charged in our city. I'd like to investigate:
 
 1. Where are there EV chargers in the city? I want to see each of the individual charging points on a map and if possible, I want information about each one.
-2. I want to know Which EV chargers are used most frequently. Ideally, I could colour the points on the map with the mean number of charge events on a daily basis. 
+2. I want to know Which EV chargers are used most frequently. Ideally, I could colour the points on the map with the daily mean number of charge events over the last month. 
 3. I want to know what time of day the chargers at point ABC are used most often. I want to see a [histogram](https://en.wikipedia.org/wiki/Histogram) of when charging events occur.
-4. Though this may be __private__ i'd like to see the real-time location of the Electric Vehicles involved in the Sharing Cities scheme. 
+4. Though this may be __private__ because im a technical user, who has logged in, i'd like to see the real-time location of the Electric Vehicles involved in the Sharing Cities scheme. 
+
+##### I'm a citizen and I own an EV
+
+1. I'd like to check the public dashboard to see what EV chargers are currently available. If none are available i'd like to see which are estimated to be available next based on the State of Charge of current vehicles. 
+
+2. Because i'm interested in new technologies i'd also like to get the same information for the Electric bikes that are now available in my city. 
+
+##### I'm a building manager and I'm concerned with how much energy my building is using. 
+
+1. I'd like to know if our building is using more electricity than it's solar panels are producing. 
